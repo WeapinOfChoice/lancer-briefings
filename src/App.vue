@@ -98,12 +98,6 @@ export default {
           "name": "Training Day",
           "status": "start"
         },
-        {
-          "slug" : "001",
-          "name" : "Red Hand's Reach",
-          "status" : "start"
-          
-        },
       ],
       "pilots": [
         {
