@@ -89,18 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
+          "slug": "000",
+          "name": "Training Day",
+          "status": "start"
         },
         {
-          "slug" : "002",
-          "name" : "Vigilant Gaze",
+          "slug" : "001",
+          "name" : "Red Hand's Reach",
           "status" : "start"
           
         },
