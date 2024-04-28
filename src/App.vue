@@ -124,6 +124,14 @@ export default {
           "frame": "Everest",
           "mech": "M1-M0"
         },
+        {
+          "callsign": "Casper",
+          "alias": "Anthony Lamay",
+          "code": "4be26ce9-c990-4e29-bd0f-cc75f3a59a96///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Ghost-1"
+        },
       ],
       "header": {
         "planet": "Hercynia",
