@@ -130,7 +130,7 @@ export default {
           "code": "11527141-da38-47da-8daa-3a4de120d34c///NDL-C-SATELLITE-AUGUST//5025-02-08T04:24:52.094Z",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Right of Existance"
+          "mech": "Right of Existence"
         },
       ],
       "header": {
