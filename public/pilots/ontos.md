@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+Vinnie was born on Death's Yearning. Growing up in this line of work he's picked up skills and tactics from all he's interacted with. Joining DY as a pilot is his way of giving back to the ship that helped raise him. He has learned that in combat, the quicker you finish a fight the more likely you are to make it home, something his mother failed to learn, costing her her life and that of her squad mate and best friend.
