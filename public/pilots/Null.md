@@ -3,6 +3,7 @@
 *[Operator Note: Refused to Talk about his 'birth', training or otherwise any time in the black site facility, only answered questions that lacked relevance to his past.]*
 
 *[Death's Yearning Lancer Evaluation]*
+
 We have very little information on 'Cain'. We know whatever gene samples pooled together to make him physically desirable, aiding him in his size, physical strength and sufficient mental aptitude, but especially in his incredible endurance, and extremely high connection to his Lancer, with cybernetic enhancements to aid in all prior functions. He's well-trained with weapons of war, has the tactical intuition and native instincts of a veteran soldier. We set him on a trial run within Death's Yearning PMC sector and he excelled in several operations until disobeying direct orders, and mounting a mech inside the mission area when confronted with a hostile Lancer. He proved his abilities in a lancer then, and Death's Yearning intends to allow him to find purpose here & now as a Lancer, rather than forced into one for the SSC.
 
 *[Operator Note: Cain shows is mandated to receive regular therapeutic treatments and evaluations to assist in adjustment and temperament. ~~Hopefully he understands we want to help.~~]*
