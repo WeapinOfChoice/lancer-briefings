@@ -110,8 +110,8 @@ export default {
         },
         {
           "callsign": "Ontos",
-          "alias": "N/A",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "alias": "Vincent 'Vinnie' Firenze",
+          "code": "d63b0a3a-3fdf-4f9a-b6cd-cd6f44d124fa///NDL-C-LIGHT-ASH//5025-02-08T18:44:08.412Z",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "M1-M0"
