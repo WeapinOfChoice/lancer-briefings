@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+Soolu was born on a spaceship and as such as developed severe agoraphobia. despite that, she got tired of her shipboard life and sought a method to explore while still remaining contained in steel. Thus began her life as a Lancer. Dubbed "twitch" by her fellow pilots due to her quiet and jumpy personality, she usually keeps to herself and keeps quiet, fading to the background of most situations.
