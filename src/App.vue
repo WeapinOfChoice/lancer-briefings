@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "Training Day",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
